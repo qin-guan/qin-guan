@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/qin-guan/openhouse2020">
+<a href="https://github.com/qin-guan/Strife">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qin-guan&repo=Strife&theme=algolia" />
 </a>
 
