@@ -1,3 +1,5 @@
+<br/>
+
 <a href="https://github.com/qin-guan/openhouse2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qin-guan&repo=Strife&theme=algolia" />
 </a>
@@ -6,19 +8,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sst-inc&repo=openhouse2020&theme=algolia" />
 </a>
 
-<p align="center">
- <h1 align="center">Qin Guan</h2>
-</p>
+<br/>
 
-<p align="center">
+## Hi, I'm Qin Guan
+
+<p>
   <a href="https://qinguan.vercel.app">
     <img src="https://img.shields.io/badge/site-qinguan.vercel.app-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/qin-guan/">
+    <img src="https://img.shields.io/badge/linkedin-qin--guan-blue?style=for-the-badge"/>
   </a>
   <a href="mailto:qin-guan@outlook.com">
     <img src="https://img.shields.io/badge/email-qin--guan@outlook.com-blueviolet?style=for-the-badge"/>
   </a>
   <a href="https://gitlab.com/qinguan2004">
     <img src="https://img.shields.io/badge/gitlab-qinguan2004-orange?style=for-the-badge"/>
+  </a>
+  <a href="https://outsideapp.co">
+    <img src="https://img.shields.io/badge/work-outside technologies-00bfa5?style=for-the-badge"/>
   </a>
 </p>
 
