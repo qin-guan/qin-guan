@@ -1,8 +1,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/qin-guan/Strife">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=qin-guan&repo=Strife" />
+<a href="https://dev.azure.com/StrifeTechnologies/Strife">
+    <img src="https://img.shields.io/badge/what%20im%20working%20on-strife-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/sst-inc/openhouse2020">
