@@ -1,9 +1,10 @@
 <br/>
 <br/>
 
-<a href="https://dev.azure.com/StrifeTechnologies/Strife">
-    <img src="https://img.shields.io/badge/what%20im%20working%20on-strife-blue?style=for-the-badge"/>
-</a>
+### What I'm working on
+
+#### [Strife](https://dev.azure.com/StrifeTechnologies/Strife)
+
 
 <a href="https://github.com/sst-inc/openhouse2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sst-inc&repo=openhouse2020" />
