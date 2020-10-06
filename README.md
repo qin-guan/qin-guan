@@ -1,18 +1,3 @@
-<br/>
-<br/>
-
-### What I'm working on
-
-#### [Strife](https://dev.azure.com/StrifeTechnologies/Strife)
-
-
-<a href="https://github.com/sst-inc/openhouse2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sst-inc&repo=openhouse2020" />
-</a>
-
-<br/>
-<br/>
-
 ## Hi, I'm Qin Guan
 
 <p>
@@ -32,6 +17,14 @@
     <img src="https://img.shields.io/badge/work-outside technologies-00bfa5?style=for-the-badge"/>
   </a>
 </p>
+
+#### What I'm working on
+
+**[Strife](https://dev.azure.com/StrifeTechnologies/Strife)**
+
+<a href="https://github.com/sst-inc/openhouse2020">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sst-inc&repo=openhouse2020" />
+</a>
 
 #### My GitHub Stats
 
