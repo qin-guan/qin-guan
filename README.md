@@ -20,11 +20,7 @@
 
 #### What I'm working on
 
-**[Strife](https://dev.azure.com/StrifeTechnologies/Strife)**
-
-<a href="https://github.com/sst-inc/openhouse2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sst-inc&repo=openhouse2020" />
-</a>
+### **[Strife](https://dev.azure.com/StrifeTechnologies/Strife)**
 
 #### My GitHub Stats
 
