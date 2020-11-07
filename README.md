@@ -18,9 +18,7 @@
   </a>
 </p>
 
-#### What I'm working on
-
-### **[Strife](https://dev.azure.com/StrifeTechnologies/Strife)**
+### I'm currently working on **[Strife](https://dev.azure.com/StrifeTechnologies/Strife)**, please consider taking a look
 
 #### My GitHub Stats
 
