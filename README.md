@@ -13,12 +13,10 @@
   <a href="https://gitlab.com/qinguan2004">
     <img src="https://img.shields.io/badge/gitlab-qinguan2004-orange?style=for-the-badge"/>
   </a>
-  <a href="https://outsideapp.co">
-    <img src="https://img.shields.io/badge/work-outside technologies-00bfa5?style=for-the-badge"/>
+  <a href="https://pigeonholelive.com">
+    <img src="https://img.shields.io/badge/work-PigeonLab-00bfa5?style=for-the-badge"/>
   </a>
 </p>
-
-### I'm currently working on **[Strife](https://dev.azure.com/StrifeTechnologies/Strife)**, please consider taking a look
 
 #### My GitHub Stats
 
